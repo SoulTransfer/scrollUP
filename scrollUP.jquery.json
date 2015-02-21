@@ -1,0 +1,33 @@
+{
+    "name": "scrollUP",
+    "title": "jQuery scrollUP",
+    "description": "a simple scrollUp item which can be used with every element.",
+    "keywords": [
+        "scroll up",
+        "animation"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "BlackArray []"
+    },
+    "maintainers": [
+        {
+            "name": "Stefan Jud",
+            "email": "info@blackarray.ch",
+            "url": "http://www.blackarray.ch"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "Apache 2.0",
+            "url": "https://raw.githubusercontent.com/SoulTransfer/scrollUP/master/LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/SoulTransfer/scrollUP/issues",
+    "homepage": "https://github.com/SoulTransfer/scrollUP/",
+    "docs": "https://github.com/SoulTransfer/scrollUP/",
+    "download": "https://github.com/SoulTransfer/scrollUP/",
+    "dependencies": {
+        "jquery": ">=1.10"
+    }
+}
