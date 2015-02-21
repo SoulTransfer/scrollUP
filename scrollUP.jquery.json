@@ -3,10 +3,10 @@
     "title": "jQuery scrollUP",
     "description": "a simple scrollUp item which can be used with every element.",
     "keywords": [
-        "scrollup",
+        "scroll up",
         "animation"
     ],
-    "version": "1.0.0",
+    "version": "1.0",
     "author": {
         "name": "BlackArray []"
     },
